@@ -1,0 +1,888 @@
+{
+  "release": "v0127",
+  "purpose": "Public generated fashion images used by the CONNECTA prototype",
+  "images": [
+    {
+      "key": "snap_p1",
+      "file": "v0127/base/snap_p1.webp",
+      "bytes": 26402,
+      "sha256": "4515f93ce11a6023215ed29498fdfe6d1f4ae2ed9689f659166ab5111970ca86"
+    },
+    {
+      "key": "snap_m0",
+      "file": "v0127/base/snap_m0.webp",
+      "bytes": 41590,
+      "sha256": "403850179d95dab72c28e7ff3d224aad5ed91fb0570d0e5186c06ebabaad34b2"
+    },
+    {
+      "key": "snap_p2",
+      "file": "v0127/base/snap_p2.webp",
+      "bytes": 52412,
+      "sha256": "ff8c8513373a473f2bb4ee54d158a8b433e7d75e401e4af1b2c962fe49f1cd92"
+    },
+    {
+      "key": "snap_p3",
+      "file": "v0127/base/snap_p3.webp",
+      "bytes": 32636,
+      "sha256": "22331524ece55b2b130b53d248e00ba71de9062471f7f8c5f15cd90a8d244ef8"
+    },
+    {
+      "key": "snap_p4",
+      "file": "v0127/base/snap_p4.webp",
+      "bytes": 47170,
+      "sha256": "d193cd4ceddc0e14bfa2674c96b1ee574d56d04b242d9e332fc7b5fb13257766"
+    },
+    {
+      "key": "snap_p5",
+      "file": "v0127/base/snap_p5.webp",
+      "bytes": 29054,
+      "sha256": "522e8275d0c7c040603cc1463bd6aa9161f70a93bca5e9d0b410e4151c9e6faa"
+    },
+    {
+      "key": "snap_m1",
+      "file": "v0127/base/snap_m1.webp",
+      "bytes": 40334,
+      "sha256": "6994167dc2ba635c30ab724f96d798abbe557a574aaa2adaa6c8f15dfa25158e"
+    },
+    {
+      "key": "snap_m3",
+      "file": "v0127/base/snap_m3.webp",
+      "bytes": 45606,
+      "sha256": "8b1526d757475e3bb6d9afc938e59820fa6a343b4040382f73dfe7d2feba7214"
+    },
+    {
+      "key": "snap_m4",
+      "file": "v0127/base/snap_m4.webp",
+      "bytes": 33524,
+      "sha256": "054f93708a20407d38a999fb555efe845ad730aae316abcdbf9303ce04361d5d"
+    },
+    {
+      "key": "snap_m5",
+      "file": "v0127/base/snap_m5.webp",
+      "bytes": 27372,
+      "sha256": "2f8b77764d0aece800a67cc828ef94a24f6df604e883d271c187a0d464daf234"
+    },
+    {
+      "key": "snap_m6",
+      "file": "v0127/base/snap_m6.webp",
+      "bytes": 36254,
+      "sha256": "e91fa906924feec09639f30dc1d5dfa63a64920fa1d1613994ac55354fc4fcf9"
+    },
+    {
+      "key": "snap_p6",
+      "file": "v0127/base/snap_p6.webp",
+      "bytes": 34424,
+      "sha256": "e7b47a19e810ea5cb530ee7ce9fb8d2254b40d950fcc0de5507d14fba96a20ea"
+    },
+    {
+      "key": "snap_d0",
+      "file": "v0127/base/snap_d0.webp",
+      "bytes": 35422,
+      "sha256": "18b27e9d1f6d044f4a819438e32ed55b345145c9deab9f15c502d098355bdc4c"
+    },
+    {
+      "key": "snap_d1",
+      "file": "v0127/base/snap_d1.webp",
+      "bytes": 28926,
+      "sha256": "aa5059f12ca3e7a9a1ee88e8f22589b4ecfb841cc3d17330631a4963aac655f8"
+    },
+    {
+      "key": "snap_d2",
+      "file": "v0127/base/snap_d2.webp",
+      "bytes": 48578,
+      "sha256": "c27e6c603d8d2a9bf020312b10f0d59eea30608094e94d7d398ed4a813e7373b"
+    },
+    {
+      "key": "snap_d3",
+      "file": "v0127/base/snap_d3.webp",
+      "bytes": 40776,
+      "sha256": "5a0ae72e72eda7524ebd2561eb232cd4d59da777d14c8a5854e2c5d780f916d0"
+    },
+    {
+      "key": "snap_d4",
+      "file": "v0127/base/snap_d4.webp",
+      "bytes": 61026,
+      "sha256": "c7bdeb77df03ff141daf03d91910b9255b90d99f7fcbc769f678efe5504e45b3"
+    },
+    {
+      "key": "snap_d5",
+      "file": "v0127/base/snap_d5.webp",
+      "bytes": 29492,
+      "sha256": "006bb20a64918c7a273125c8bf77b7d41fc46055a37f4fbc1f37783a78ab69a4"
+    },
+    {
+      "key": "snap_d6",
+      "file": "v0127/base/snap_d6.webp",
+      "bytes": 34974,
+      "sha256": "c55197aa3691e6d7385bf91be0e2d173571677186b762619eb492cb53f83eeb9"
+    },
+    {
+      "key": "snap_d7",
+      "file": "v0127/base/snap_d7.webp",
+      "bytes": 38598,
+      "sha256": "36a0cb88da1c1dda0d1d05ca1f3b88efe25b563f95c196a686af11d71d365b2e"
+    },
+    {
+      "key": "snap_d8",
+      "file": "v0127/base/snap_d8.webp",
+      "bytes": 31972,
+      "sha256": "6fb72fe5ab3773210de31858d6f3cca65719126b80a000c48b8570cb06328f05"
+    },
+    {
+      "key": "snap_d9",
+      "file": "v0127/base/snap_d9.webp",
+      "bytes": 31562,
+      "sha256": "f5fe3553cca916f4a7e740dc8a4e671de6a81c441719683362c7930312ff7534"
+    },
+    {
+      "key": "snap_d10",
+      "file": "v0127/base/snap_d10.webp",
+      "bytes": 40020,
+      "sha256": "94bac32def264fe1f619a985a235cc51ce2633a924496306d7d73cd438636127"
+    },
+    {
+      "key": "snap_d11",
+      "file": "v0127/base/snap_d11.webp",
+      "bytes": 23734,
+      "sha256": "bfd0711f3d809a2c230a04ca3fcfe39d1280b0db10b584569f32da0538c84f98"
+    },
+    {
+      "key": "snap_c0",
+      "file": "v0127/base/snap_c0.webp",
+      "bytes": 39908,
+      "sha256": "fe69c8350a1830f52b1e99fd359a1359f6be2d202591f2db80f083fbefe66b59"
+    },
+    {
+      "key": "snap_c1",
+      "file": "v0127/base/snap_c1.webp",
+      "bytes": 43406,
+      "sha256": "6d85777f479c5e3c7a4bb360062371fa11c1b679125c82d168a6fb330553cae6"
+    },
+    {
+      "key": "snap_c2",
+      "file": "v0127/base/snap_c2.webp",
+      "bytes": 46944,
+      "sha256": "3a95a2388a5f834a116b4019086ab4a258a9e5e17bbe9cee4a4e7307bfa9b982"
+    },
+    {
+      "key": "snap_ssA01",
+      "file": "v0127/base/snap_ssA01.webp",
+      "bytes": 30682,
+      "sha256": "0e0cbd79b05e8b7032959c5956c72d74a0b72bcfc722a9502995610b70038f03"
+    },
+    {
+      "key": "snap_ssA02",
+      "file": "v0127/base/snap_ssA02.webp",
+      "bytes": 34910,
+      "sha256": "20218b306fb6f7ec6c346690ef66e2a1421b38a8af585e3e6f2bbe467b414b54"
+    },
+    {
+      "key": "snap_ssA03",
+      "file": "v0127/base/snap_ssA03.webp",
+      "bytes": 31432,
+      "sha256": "cc64d8d4556c492b4f0dc2e88fa1d0582ef5cd4e225041b7c48b18470ebbc768"
+    },
+    {
+      "key": "snap_ssA04",
+      "file": "v0127/base/snap_ssA04.webp",
+      "bytes": 34042,
+      "sha256": "7e2a45ba875adf4f6a10cbe8b4e18d52a72b2b5f6cce3b01fbf3b9b0dedf1cbe"
+    },
+    {
+      "key": "snap_ssA05",
+      "file": "v0127/base/snap_ssA05.webp",
+      "bytes": 30478,
+      "sha256": "c3ca50016bc89ba18b24a0000dfc9b3420cc03af6154c0e3dc04f2479de89e9e"
+    },
+    {
+      "key": "snap_ssA06",
+      "file": "v0127/base/snap_ssA06.webp",
+      "bytes": 26056,
+      "sha256": "8d2644b849b9186b2090470cfc92837a716e1cd45d088d9447066459be8fd57f"
+    },
+    {
+      "key": "snap_ssA07",
+      "file": "v0127/base/snap_ssA07.webp",
+      "bytes": 33762,
+      "sha256": "4f72f386da8f1d3c966b030857ecce10b88a7a836ac5d615c8643bcb48ad6542"
+    },
+    {
+      "key": "snap_ssA08",
+      "file": "v0127/base/snap_ssA08.webp",
+      "bytes": 28278,
+      "sha256": "a3c7b0a7facb9f87c9444222e3eba1de101a0f96c07965ef738efb4a3207e319"
+    },
+    {
+      "key": "snap_ssA09",
+      "file": "v0127/base/snap_ssA09.webp",
+      "bytes": 31970,
+      "sha256": "947999cac101b4adb90d318c48b9f43cdf00ff95447c350b29567c992d00a805"
+    },
+    {
+      "key": "snap_ssA10",
+      "file": "v0127/base/snap_ssA10.webp",
+      "bytes": 31398,
+      "sha256": "c41bb199ee3da602c7beb4dd51bd0511c46a7d15ceb740f01972b79b18f33968"
+    },
+    {
+      "key": "snap_ssA11",
+      "file": "v0127/base/snap_ssA11.webp",
+      "bytes": 31996,
+      "sha256": "8a01f0ee98807562c14b3c7f69a6eca39f78c240e9a4673711097027d51a25b6"
+    },
+    {
+      "key": "snap_ssA12",
+      "file": "v0127/base/snap_ssA12.webp",
+      "bytes": 32938,
+      "sha256": "6b2ee478b4b671eb54b1a699d2fd5fcf350e1746f86720904f267c3fc8ca349d"
+    },
+    {
+      "key": "snap_ssB01",
+      "file": "v0127/base/snap_ssB01.webp",
+      "bytes": 21590,
+      "sha256": "1d290cd2595a7f73810ecf5c5722a645e9278bec068fa00e45406b9d92d7884b"
+    },
+    {
+      "key": "snap_ssB02",
+      "file": "v0127/base/snap_ssB02.webp",
+      "bytes": 26602,
+      "sha256": "5c213ac42ed8ed0aeed0cf906242270305e1ec261d315062734d8ff428cda7fb"
+    },
+    {
+      "key": "snap_ssB03",
+      "file": "v0127/base/snap_ssB03.webp",
+      "bytes": 30448,
+      "sha256": "c1cccc61b85ecb5117ef5aef8f2df7635c1a0e66b20ce6b59cfee824e80700af"
+    },
+    {
+      "key": "snap_ssB04",
+      "file": "v0127/base/snap_ssB04.webp",
+      "bytes": 17960,
+      "sha256": "048df14f326e193d7dcfee0ca2b1526368fb8a7e9d883d5fb19048bd9642145c"
+    },
+    {
+      "key": "snap_ssB05",
+      "file": "v0127/base/snap_ssB05.webp",
+      "bytes": 18750,
+      "sha256": "7717d24520219ad3c3bf3b05927dbe9c680154d81c23a7c92f1ce126d08f2bc0"
+    },
+    {
+      "key": "snap_ssB06",
+      "file": "v0127/base/snap_ssB06.webp",
+      "bytes": 21304,
+      "sha256": "9eccf3086fe08d22fced3da15c1d8ffd178371e834dce55de2b6e2fca30d6390"
+    },
+    {
+      "key": "snap_ssB07",
+      "file": "v0127/base/snap_ssB07.webp",
+      "bytes": 15464,
+      "sha256": "4a80216c4058a76855abfc18203642e5d3c87ebd96405e664715d6bb9759456f"
+    },
+    {
+      "key": "snap_ssB08",
+      "file": "v0127/base/snap_ssB08.webp",
+      "bytes": 26086,
+      "sha256": "bd19007dda2284bbf2ce033917129df72c9801545f16ac60ae186be72831be3c"
+    },
+    {
+      "key": "snap_ssB09",
+      "file": "v0127/base/snap_ssB09.webp",
+      "bytes": 41104,
+      "sha256": "197abe1363cd7136aa2d9f3130c053c3ac75b1cf053993c519d3ac9dd1b11842"
+    },
+    {
+      "key": "snap_ssB10",
+      "file": "v0127/base/snap_ssB10.webp",
+      "bytes": 18028,
+      "sha256": "1a62e66afe864404c428c9984ad0ccaf5f896df9a13b583e42cd4fd360041623"
+    },
+    {
+      "key": "snap_ssB11",
+      "file": "v0127/base/snap_ssB11.webp",
+      "bytes": 33612,
+      "sha256": "580f91b58b11b9b17250463e0b62a7fc84c56f1938ff2fc47727720bb5b455f9"
+    },
+    {
+      "key": "snap_ssB12",
+      "file": "v0127/base/snap_ssB12.webp",
+      "bytes": 15938,
+      "sha256": "3c434192dd11cb8a571c78eaf297b75846265ca00de235b1b033e767c844b333"
+    },
+    {
+      "key": "snap_ssC01",
+      "file": "v0127/base/snap_ssC01.webp",
+      "bytes": 17862,
+      "sha256": "bb2b8921d43c6b6b2165a5e31c059d60573c5ca50b46261d445e7e4898dbab80"
+    },
+    {
+      "key": "snap_ssC02",
+      "file": "v0127/base/snap_ssC02.webp",
+      "bytes": 17866,
+      "sha256": "423843f8118644bc61ead2af59d917f00c59cc9156f57d7f847b1129575e493c"
+    },
+    {
+      "key": "snap_ssC03",
+      "file": "v0127/base/snap_ssC03.webp",
+      "bytes": 15548,
+      "sha256": "114ba9a7a8bfaf5f20fd57ffd7faef68963bc2d1ebdb75718092ea9364688a33"
+    },
+    {
+      "key": "snap_ssC04",
+      "file": "v0127/base/snap_ssC04.webp",
+      "bytes": 20166,
+      "sha256": "b8c3250922ef6389ec2f01efbf0ffcc5508aa006a1727db888ca5680fced27a9"
+    },
+    {
+      "key": "snap_ssC05",
+      "file": "v0127/base/snap_ssC05.webp",
+      "bytes": 18430,
+      "sha256": "6d28ac1111fc2b600f8bab5b25b8b3e41b4cda24a6e882b1788397cbc449897f"
+    },
+    {
+      "key": "snap_ssC06",
+      "file": "v0127/base/snap_ssC06.webp",
+      "bytes": 24494,
+      "sha256": "741993da53c350f300c802810be54f57270004763cad91cde7c3c53dfef8ca94"
+    },
+    {
+      "key": "snap_ssC07",
+      "file": "v0127/base/snap_ssC07.webp",
+      "bytes": 23256,
+      "sha256": "181b554ef3136809d77ff2511bbe0dc96021d3b3f4f9ea5fa95ae4c34d05acfa"
+    },
+    {
+      "key": "snap_ssC08",
+      "file": "v0127/base/snap_ssC08.webp",
+      "bytes": 18520,
+      "sha256": "bc95f833673a6b05383d67393f6d86f0a4c90f29147f809e76b48f1482db4797"
+    },
+    {
+      "key": "snap_ssC09",
+      "file": "v0127/base/snap_ssC09.webp",
+      "bytes": 22946,
+      "sha256": "f9e487deb5c7e837904db9b6a68184f674f15ec7360913822c2a81f8f2c3e766"
+    },
+    {
+      "key": "snap_ssC10",
+      "file": "v0127/base/snap_ssC10.webp",
+      "bytes": 18346,
+      "sha256": "8cc41b92b8c157051c98d8b27f135cb0d1335d8a67397183ec33109a586d2dbf"
+    },
+    {
+      "key": "snap_ssC11",
+      "file": "v0127/base/snap_ssC11.webp",
+      "bytes": 19012,
+      "sha256": "11ff0f5c55448c47c6c6e0b8d76dc9c1827dbaec29df09f4887372e1edf398b7"
+    },
+    {
+      "key": "snap_ssC12",
+      "file": "v0127/base/snap_ssC12.webp",
+      "bytes": 15766,
+      "sha256": "90b15f2af9a59185bba9039ca36f81ecf46fdd264cb947f30ed65f4fae770f8d"
+    },
+    {
+      "key": "snap_ssD01",
+      "file": "v0127/base/snap_ssD01.webp",
+      "bytes": 20840,
+      "sha256": "3e3e2b659d5dc4d850c965f71cfddcf3efb271170f400c7aff1cf8b2cedc7436"
+    },
+    {
+      "key": "snap_ssD02",
+      "file": "v0127/base/snap_ssD02.webp",
+      "bytes": 24760,
+      "sha256": "ec087a633b0de41cacff1f85b830518f48be6a9c261406751704c5f5474c134b"
+    },
+    {
+      "key": "snap_ssD03",
+      "file": "v0127/base/snap_ssD03.webp",
+      "bytes": 36740,
+      "sha256": "299d81c108edd361c03ca905d4a06365a20863cb64156e3f3cafc377056c96c9"
+    },
+    {
+      "key": "snap_ssD04",
+      "file": "v0127/base/snap_ssD04.webp",
+      "bytes": 35830,
+      "sha256": "0b663b1a3b6c2ebd87dd5c76437ec3a6337abde8ed997896e845b6cf8660d361"
+    },
+    {
+      "key": "snap_ssD05",
+      "file": "v0127/base/snap_ssD05.webp",
+      "bytes": 31150,
+      "sha256": "1cd8e905c91d6be90a8f8c64852347cf7196b528c3e27422407a05060a0baf17"
+    },
+    {
+      "key": "snap_ssD06",
+      "file": "v0127/base/snap_ssD06.webp",
+      "bytes": 16336,
+      "sha256": "11fa73a2cac957ca502c905ab3fbe41db3fedbae177e292e417a8ee93d312c88"
+    },
+    {
+      "key": "snap_ssD07",
+      "file": "v0127/base/snap_ssD07.webp",
+      "bytes": 27656,
+      "sha256": "a087ca0b8d698ca49405243cff885b6d0a59ca7c42a0cfff2e5297d1b532d8aa"
+    },
+    {
+      "key": "snap_ssD08",
+      "file": "v0127/base/snap_ssD08.webp",
+      "bytes": 32494,
+      "sha256": "5415a619efad5da876e285ab36e36fc29f23223476850f0b2cb2b3cbc9068a32"
+    },
+    {
+      "key": "snap_ssD09",
+      "file": "v0127/base/snap_ssD09.webp",
+      "bytes": 41460,
+      "sha256": "17b4bbc888fb2072875df7f87253888c51217797ae53a693921603400ca75e55"
+    },
+    {
+      "key": "snap_ssD10",
+      "file": "v0127/base/snap_ssD10.webp",
+      "bytes": 22390,
+      "sha256": "2f07c101f112da521b918b8e44a69d79454806e5497b9a98697d0b82066dda3d"
+    },
+    {
+      "key": "snap_ssD11",
+      "file": "v0127/base/snap_ssD11.webp",
+      "bytes": 36450,
+      "sha256": "ed5c64cd0cee843c2d713f666341a23d5b363596ac4be3223e7cb17eb576c24d"
+    },
+    {
+      "key": "snap_ssD12",
+      "file": "v0127/base/snap_ssD12.webp",
+      "bytes": 35644,
+      "sha256": "9460579f962c6a6e855cd9638a5dfef4ab8dbd835e6b504c1244989d118a6070"
+    },
+    {
+      "key": "snap_ssE01",
+      "file": "v0127/base/snap_ssE01.webp",
+      "bytes": 33718,
+      "sha256": "6f0b43d65ccbca2a64dde203169af98f3ade7f103f39edbd90b381e7a1bc947a"
+    },
+    {
+      "key": "snap_ssE02",
+      "file": "v0127/base/snap_ssE02.webp",
+      "bytes": 16600,
+      "sha256": "2f619bc3cbfc6c5acfbb2177237d0a5690c859049db31de11938dc50ca56671f"
+    },
+    {
+      "key": "snap_ssE03",
+      "file": "v0127/base/snap_ssE03.webp",
+      "bytes": 42040,
+      "sha256": "92bc5f686e27c9696356fb49a03d261c1abb2d63f0b7c8c296b40b3316a1c7ff"
+    },
+    {
+      "key": "snap_ssE04",
+      "file": "v0127/base/snap_ssE04.webp",
+      "bytes": 25740,
+      "sha256": "dacea4480ace3597b20366968fb15864432a2058ee1b5025ec0b89c2c1cd231f"
+    },
+    {
+      "key": "snap_ssE05",
+      "file": "v0127/base/snap_ssE05.webp",
+      "bytes": 20470,
+      "sha256": "1dd2a0471655da5c540b26155499565db7c0b00ecd4c1da794b5a565ecad74ee"
+    },
+    {
+      "key": "snap_ssE06",
+      "file": "v0127/base/snap_ssE06.webp",
+      "bytes": 31602,
+      "sha256": "fb3c5b1ebb7b321fc23d73c5557f29ead0318873e8b2f9d93165825ca69b20d1"
+    },
+    {
+      "key": "snap_ssE07",
+      "file": "v0127/base/snap_ssE07.webp",
+      "bytes": 17674,
+      "sha256": "91706f4f682488f3e376ef8bdafd4ff77e65311585531a97b103e031291a5539"
+    },
+    {
+      "key": "snap_ssE08",
+      "file": "v0127/base/snap_ssE08.webp",
+      "bytes": 41440,
+      "sha256": "3bff285dd6e5c8429876d85ba7f00ee65f417f66ef04317159a8cebd6be3edfc"
+    },
+    {
+      "key": "snap_ssE09",
+      "file": "v0127/base/snap_ssE09.webp",
+      "bytes": 29882,
+      "sha256": "7a080b49d73bca2e06120714dccd0e2b546664f4dde61939be637511f8fc5172"
+    },
+    {
+      "key": "snap_ssE10",
+      "file": "v0127/base/snap_ssE10.webp",
+      "bytes": 45526,
+      "sha256": "f491c50938d2c80c49fb0575beea4e715183d7fbe0d1bf15bb34db0f558323a3"
+    },
+    {
+      "key": "snap_ssE11",
+      "file": "v0127/base/snap_ssE11.webp",
+      "bytes": 31170,
+      "sha256": "9d1a95558180956cefe068ec787e2013484e6f14b92b6c40619bcade0b3227a5"
+    },
+    {
+      "key": "snap_ssE12",
+      "file": "v0127/base/snap_ssE12.webp",
+      "bytes": 28062,
+      "sha256": "cf4d8c4bc29ba0e03224424c4c1b6e82c88137251e9d5f4e869ac420b8170356"
+    },
+    {
+      "key": "snap_mn01",
+      "file": "v0127/base/snap_mn01.webp",
+      "bytes": 12768,
+      "sha256": "29dcc119d80bbea4325df22606e8fea2b1f954c76a2e8b76244743212fb30ae4"
+    },
+    {
+      "key": "snap_mn02",
+      "file": "v0127/base/snap_mn02.webp",
+      "bytes": 13916,
+      "sha256": "d28f7829bb283e5ff4a16e050f77a0a8fcfa06fd47abaf359eefeb879469d72a"
+    },
+    {
+      "key": "snap_mn03",
+      "file": "v0127/base/snap_mn03.webp",
+      "bytes": 19840,
+      "sha256": "9225d22a87541874e79885afe39c64b0c6338da04d048fb73a4d50b71c47c88a"
+    },
+    {
+      "key": "snap_mn04",
+      "file": "v0127/base/snap_mn04.webp",
+      "bytes": 12850,
+      "sha256": "e97a60b9875d3e96006d4074da539e3198d0953f1d7d5acdee5bbdb059986a98"
+    },
+    {
+      "key": "snap_mn05",
+      "file": "v0127/base/snap_mn05.webp",
+      "bytes": 23230,
+      "sha256": "5fb699dc5a531195eac110872eea2d4267da21ac780a10fa2e018a14d6f3bee6"
+    },
+    {
+      "key": "snap_mn06",
+      "file": "v0127/base/snap_mn06.webp",
+      "bytes": 21190,
+      "sha256": "94ebd1385f1a82f765aad3838adc2755c22d5266727e21a5e1fe5abe43679936"
+    },
+    {
+      "key": "snap_mn07",
+      "file": "v0127/base/snap_mn07.webp",
+      "bytes": 10348,
+      "sha256": "75d63513839a9d3126c99b198dde23d5dcfd53b0f9314262712a3f35dcc58d0a"
+    },
+    {
+      "key": "snap_mn08",
+      "file": "v0127/base/snap_mn08.webp",
+      "bytes": 13774,
+      "sha256": "6b940115e511e2f2223634cf26d4bfe000a9096b56b35fb39c08c8f9e206c004"
+    },
+    {
+      "key": "snap_mn09",
+      "file": "v0127/base/snap_mn09.webp",
+      "bytes": 42280,
+      "sha256": "c02da8662a16ebd60121edc1e99ae4cbd49ceac0c8cfb643d64e69a9e7c0a8f3"
+    },
+    {
+      "key": "snap_mn10",
+      "file": "v0127/base/snap_mn10.webp",
+      "bytes": 46984,
+      "sha256": "95d51c82f2613ae5a2d088702798f8ddf41fc4c62272fb1abf47c94d2b1b6a51"
+    },
+    {
+      "key": "snap_mn11",
+      "file": "v0127/base/snap_mn11.webp",
+      "bytes": 37206,
+      "sha256": "f462db1da0bd60c2b60958b28fc3f22bbb01e2e888dc751c4389875f738b02bb"
+    },
+    {
+      "key": "snap_mn12",
+      "file": "v0127/base/snap_mn12.webp",
+      "bytes": 53032,
+      "sha256": "40e23d938d2d6979c063eafdd8eaadda42bbc26e1193902e8a5580a781e2ae56"
+    },
+    {
+      "key": "snap_mn13",
+      "file": "v0127/base/snap_mn13.webp",
+      "bytes": 26542,
+      "sha256": "b7e5513a6fe7778949bc6df43a15017577445fc0d14f429b0521d8d98f79f9e6"
+    },
+    {
+      "key": "snap_mn14",
+      "file": "v0127/base/snap_mn14.webp",
+      "bytes": 34256,
+      "sha256": "57561e4f9409cdc2f3ecb7e5434f70c37b07c5e43c3645750270ea86c6ad4908"
+    },
+    {
+      "key": "snap_mn15",
+      "file": "v0127/base/snap_mn15.webp",
+      "bytes": 40946,
+      "sha256": "bb1ebd5663dd1f7d09e05646672a6a82bb9a5741bc024909685a4af39ba51ae9"
+    },
+    {
+      "key": "snap_mn16",
+      "file": "v0127/base/snap_mn16.webp",
+      "bytes": 43856,
+      "sha256": "3ef66b25fd0f622d9b179009da52e706712612fe5fda1ddc963daa5b170e9fea"
+    },
+    {
+      "key": "snap_mn17",
+      "file": "v0127/base/snap_mn17.webp",
+      "bytes": 12344,
+      "sha256": "6f74cc7ae90027ba8a52ad3e8974576f0ddfb1ed560528ceb18c3e88778e79c7"
+    },
+    {
+      "key": "snap_mn18",
+      "file": "v0127/base/snap_mn18.webp",
+      "bytes": 23688,
+      "sha256": "0eee87147331a67b91967f8b8f19dcd8aac47a0d229a974cdea2e2e74b695da0"
+    },
+    {
+      "key": "snap_mn19",
+      "file": "v0127/base/snap_mn19.webp",
+      "bytes": 33490,
+      "sha256": "df22933f645a983ec50d746d0ebe02513894a4a7230cdce6de0a123eda14eb19"
+    },
+    {
+      "key": "snap_mn20",
+      "file": "v0127/base/snap_mn20.webp",
+      "bytes": 21618,
+      "sha256": "d9355e8229451ac5d79f6ec25b572028a073d3dee0e3ff62e8014858dfc3b808"
+    },
+    {
+      "key": "snap_mn21",
+      "file": "v0127/base/snap_mn21.webp",
+      "bytes": 17884,
+      "sha256": "37ae31901a0b00840cb0864bf52fb196d8446c86dffea83ee7bd0ba845abb587"
+    },
+    {
+      "key": "snap_mn22",
+      "file": "v0127/base/snap_mn22.webp",
+      "bytes": 29190,
+      "sha256": "61e51f044e082a1231405270a24626997e2058b8796fa35a07dc28e363853665"
+    },
+    {
+      "key": "snap_mn23",
+      "file": "v0127/base/snap_mn23.webp",
+      "bytes": 30804,
+      "sha256": "447651e93d1a6b63e98719a65b9d46446567bb30658e67bb41d95db8cf3a03dd"
+    },
+    {
+      "key": "snap_mn24",
+      "file": "v0127/base/snap_mn24.webp",
+      "bytes": 36510,
+      "sha256": "e3b8e6154ce2e30066b849377b9ac8bc4f7f5dd5bca03b36a46b772f03bf911a"
+    },
+    {
+      "key": "snap_mn25",
+      "file": "v0127/base/snap_mn25.webp",
+      "bytes": 14378,
+      "sha256": "73c1a1c65031065489e92bc268a80921ed6587c59e4db70742132eb37190a660"
+    },
+    {
+      "key": "snap_mn26",
+      "file": "v0127/base/snap_mn26.webp",
+      "bytes": 22344,
+      "sha256": "b558c48df19322f65637f95e0e5cb19996af047b40f789ab7f3e47e322c9e60a"
+    },
+    {
+      "key": "snap_mn27",
+      "file": "v0127/base/snap_mn27.webp",
+      "bytes": 18294,
+      "sha256": "65bac15ccd679c1322285d210d4b4d7095722f68ee8d9f7c6e5ef272ea6d8795"
+    },
+    {
+      "key": "snap_mn28",
+      "file": "v0127/base/snap_mn28.webp",
+      "bytes": 43014,
+      "sha256": "840cc0377df3e4a832ba87353670cba77453fc04b9694015d407d475b52e805c"
+    },
+    {
+      "key": "snap_mn29",
+      "file": "v0127/base/snap_mn29.webp",
+      "bytes": 31584,
+      "sha256": "288094b1ec33ba2fd429ece8e61fe59e2918bd87649d13b2dd24e8f5def65370"
+    },
+    {
+      "key": "snap_mn30",
+      "file": "v0127/base/snap_mn30.webp",
+      "bytes": 32902,
+      "sha256": "a85e2b19c565d11e2d2256e81ef7477ad40a1d64ab88894ce337118f9c0de108"
+    },
+    {
+      "key": "snap_ux01",
+      "file": "v0127/base/snap_ux01.webp",
+      "bytes": 17340,
+      "sha256": "d60d32c6ac5fd55f6d2aa7d62f65796dcc2c5409641bf3d96c0f1400f4b5eb92"
+    },
+    {
+      "key": "snap_ux02",
+      "file": "v0127/base/snap_ux02.webp",
+      "bytes": 10780,
+      "sha256": "331a5234fc9da3273cdfdb652308e2dd9a2ede122fe2116c0786fa9d1b1cb906"
+    },
+    {
+      "key": "snap_ux03",
+      "file": "v0127/base/snap_ux03.webp",
+      "bytes": 9322,
+      "sha256": "6c8530b914b79b6b84c8615ac101751223ae3becab2b8299f833b8d5f7380b9b"
+    },
+    {
+      "key": "snap_ux04",
+      "file": "v0127/base/snap_ux04.webp",
+      "bytes": 29302,
+      "sha256": "75645ffccaac0984719df975b1e93d69a181ac30a1fc5b9b38a605b919a794ea"
+    },
+    {
+      "key": "snap_ux05",
+      "file": "v0127/base/snap_ux05.webp",
+      "bytes": 15286,
+      "sha256": "47e3ed6ae6afc6c14dd7237cd6ce00e702d67dc0451350b5ec1567d093bbd878"
+    },
+    {
+      "key": "snap_ux06",
+      "file": "v0127/base/snap_ux06.webp",
+      "bytes": 15014,
+      "sha256": "d2e8976c7a464b55d76ae65925aeda68becf115cd24c403aa3c102f6ac702bb8"
+    },
+    {
+      "key": "snap_ux07",
+      "file": "v0127/base/snap_ux07.webp",
+      "bytes": 13812,
+      "sha256": "c3accaff7ac79f0de1b5acb853433b45bde79e59f352563bbe76b5dac875deec"
+    },
+    {
+      "key": "snap_ux08",
+      "file": "v0127/base/snap_ux08.webp",
+      "bytes": 9316,
+      "sha256": "2cc8f542ca7ce137e993ec0dee773e89fb8f6384ba2f47c6a6052e0ff7cdd4a3"
+    },
+    {
+      "key": "snap_ux09",
+      "file": "v0127/base/snap_ux09.webp",
+      "bytes": 44656,
+      "sha256": "540a082240d726bc184937bf466a6f6abec3a531026718e5271a181137141dfd"
+    },
+    {
+      "key": "snap_ux10",
+      "file": "v0127/base/snap_ux10.webp",
+      "bytes": 41662,
+      "sha256": "21c1ac096c385b34b2fd8c64011e488492ea79a0ec314d7dbe5f79fce7ff4d1a"
+    },
+    {
+      "key": "snap_ux11",
+      "file": "v0127/base/snap_ux11.webp",
+      "bytes": 26294,
+      "sha256": "d1f89568920dec5156a408b6e1c6b7a84c1d47504f106fc812c0f6b8991c1327"
+    },
+    {
+      "key": "snap_ux12",
+      "file": "v0127/base/snap_ux12.webp",
+      "bytes": 37550,
+      "sha256": "810adb70e2011707b2d9d7f94b31da538045f019103d59f16abc01b4d7bcbcff"
+    },
+    {
+      "key": "snap_ux13",
+      "file": "v0127/base/snap_ux13.webp",
+      "bytes": 38512,
+      "sha256": "284eeb9068c61e903655d631093336f9a74317355eddf9b1307271752913fd73"
+    },
+    {
+      "key": "snap_ux14",
+      "file": "v0127/base/snap_ux14.webp",
+      "bytes": 25910,
+      "sha256": "b6f4f0b0a6263fac2239dc86e3f9d1498031675e7a6caf199b02dd08daffdb64"
+    },
+    {
+      "key": "snap_ux15",
+      "file": "v0127/base/snap_ux15.webp",
+      "bytes": 35808,
+      "sha256": "00dfe6963e483bee023a9cc9655c65e0eb3f007bb47527066c9f94499dae05d6"
+    },
+    {
+      "key": "snap_ux16",
+      "file": "v0127/base/snap_ux16.webp",
+      "bytes": 32738,
+      "sha256": "836f5d8668700cf1bf0d9564d40217efe14d3191e077f8f4e303bdd7f976c97a"
+    },
+    {
+      "key": "snap_ux17",
+      "file": "v0127/base/snap_ux17.webp",
+      "bytes": 13132,
+      "sha256": "96dc4e5bc567c1b5ad704d7c0bf1a2edf8fcc9cc370bedf01be36d2d06f0f659"
+    },
+    {
+      "key": "snap_ux18",
+      "file": "v0127/base/snap_ux18.webp",
+      "bytes": 21648,
+      "sha256": "947bc4e38d3e7ddc1cc2e8649be75eed1f3b09a822ba198878348df8697097f2"
+    },
+    {
+      "key": "snap_ux19",
+      "file": "v0127/base/snap_ux19.webp",
+      "bytes": 21804,
+      "sha256": "f8b1393fb5867ff5fc1f7383decca909c367216ef1b698f1b3d5cb6fcc5e40e0"
+    },
+    {
+      "key": "snap_ux20",
+      "file": "v0127/base/snap_ux20.webp",
+      "bytes": 19026,
+      "sha256": "b43bf2e9c1d4c666741650c350e9149046362a8fa7023dc4af799c84eef800b3"
+    },
+    {
+      "key": "snap_ux21",
+      "file": "v0127/base/snap_ux21.webp",
+      "bytes": 16982,
+      "sha256": "18347ff92f4387a6f1c35d8b6500cc93d311b13c9a98fd6bdd357020b09d5367"
+    },
+    {
+      "key": "snap_ux22",
+      "file": "v0127/base/snap_ux22.webp",
+      "bytes": 34508,
+      "sha256": "e55c0d5b57112637284f7ffdbd134e870e5acc0f24c1cf9544a7294fa0611dd3"
+    },
+    {
+      "key": "snap_ux23",
+      "file": "v0127/base/snap_ux23.webp",
+      "bytes": 33066,
+      "sha256": "3081671aca2429fa7c018dd44d4fda664e6e29f2deedb22d5612b658416dcce4"
+    },
+    {
+      "key": "snap_ux24",
+      "file": "v0127/base/snap_ux24.webp",
+      "bytes": 32854,
+      "sha256": "4db5fa642e367d8935f5ed06696d49ae7b35f85db81a5d24dd5c38398d31c09e"
+    },
+    {
+      "key": "snap_ux25",
+      "file": "v0127/base/snap_ux25.webp",
+      "bytes": 19964,
+      "sha256": "17b82f9480d4021dcb429713498d2d02686dafea9c48b762db3f997b16bc5041"
+    },
+    {
+      "key": "snap_ux26",
+      "file": "v0127/base/snap_ux26.webp",
+      "bytes": 36710,
+      "sha256": "cd2b64047e72a3304a8e85ad5283346bbd494495bcec3ecd64b504e858968ca1"
+    },
+    {
+      "key": "snap_ux27",
+      "file": "v0127/base/snap_ux27.webp",
+      "bytes": 19226,
+      "sha256": "b34a428544f89a3ff25030214185f6fe6c0944e3c0b77bb750ecc287a01c30a1"
+    },
+    {
+      "key": "snap_ux28",
+      "file": "v0127/base/snap_ux28.webp",
+      "bytes": 46790,
+      "sha256": "f21cd25ee9e7eaa0591a329b9179c62c33fea5a48b8b5250e51f6b452e906fec"
+    },
+    {
+      "key": "snap_ux29",
+      "file": "v0127/base/snap_ux29.webp",
+      "bytes": 43000,
+      "sha256": "b9c3609e7aa735a578685f9a86d5955cfc2ef8da0b2884a7a8abe9f39d88ae86"
+    },
+    {
+      "key": "snap_ux30",
+      "file": "v0127/base/snap_ux30.webp",
+      "bytes": 42050,
+      "sha256": "f55b708fd7e2e84560ae56f86b94ab0600bad8b3052d07cecf270c0d2f49875a"
+    }
+  ]
+}
