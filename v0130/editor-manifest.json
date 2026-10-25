@@ -1,0 +1,249 @@
+{
+  "version": "0.13.0",
+  "kind": "new fictional editor travel photographs",
+  "count": 22,
+  "images": [
+    {
+      "id": "tokyo01",
+      "key": "journal130_tokyo01",
+      "kind": "editor",
+      "file": "v0130/editor/tokyo01.webp",
+      "url": "https://studiogravon.github.io/connecta-media/v0130/editor/tokyo01.webp",
+      "width": 768,
+      "height": 1152,
+      "bytes": 178872,
+      "sha256": "99faf4a04dbf23ff7f94784125c27372cb3af3135a2e2a54a17fedf289298c9a"
+    },
+    {
+      "id": "tokyo02",
+      "key": "journal130_tokyo02",
+      "kind": "editor",
+      "file": "v0130/editor/tokyo02.webp",
+      "url": "https://studiogravon.github.io/connecta-media/v0130/editor/tokyo02.webp",
+      "width": 768,
+      "height": 1152,
+      "bytes": 154736,
+      "sha256": "15a9345cf6a5934644a36ebcdd5b73a6ac068ebf4a76a0d4042d7cbd872d6c93"
+    },
+    {
+      "id": "tokyo03",
+      "key": "journal130_tokyo03",
+      "kind": "editor",
+      "file": "v0130/editor/tokyo03.webp",
+      "url": "https://studiogravon.github.io/connecta-media/v0130/editor/tokyo03.webp",
+      "width": 768,
+      "height": 1152,
+      "bytes": 109768,
+      "sha256": "1be2e7816cec177f67cc69994ffa18207bd7c762dbbd11407aa3d1054c02b850"
+    },
+    {
+      "id": "tokyo04",
+      "key": "journal130_tokyo04",
+      "kind": "editor",
+      "file": "v0130/editor/tokyo04.webp",
+      "url": "https://studiogravon.github.io/connecta-media/v0130/editor/tokyo04.webp",
+      "width": 768,
+      "height": 1152,
+      "bytes": 184180,
+      "sha256": "f24cc9143659510ecfdde87fc8688234e2af82a1976ff875a2fcf898cec65803"
+    },
+    {
+      "id": "tokyo05",
+      "key": "journal130_tokyo05",
+      "kind": "editor",
+      "file": "v0130/editor/tokyo05.webp",
+      "url": "https://studiogravon.github.io/connecta-media/v0130/editor/tokyo05.webp",
+      "width": 768,
+      "height": 1152,
+      "bytes": 187950,
+      "sha256": "031897037d05b2e8cf4ec285c0bddcfd4d2901fc6adf5a2706497cc50d070c26"
+    },
+    {
+      "id": "kyoto01",
+      "key": "journal130_kyoto01",
+      "kind": "editor",
+      "file": "v0130/editor/kyoto01.webp",
+      "url": "https://studiogravon.github.io/connecta-media/v0130/editor/kyoto01.webp",
+      "width": 768,
+      "height": 1152,
+      "bytes": 186670,
+      "sha256": "6f5f97f7e8e833bf2378c931d2408a55133855fc3ed6bd783f84de83346661cf"
+    },
+    {
+      "id": "kyoto02",
+      "key": "journal130_kyoto02",
+      "kind": "editor",
+      "file": "v0130/editor/kyoto02.webp",
+      "url": "https://studiogravon.github.io/connecta-media/v0130/editor/kyoto02.webp",
+      "width": 768,
+      "height": 1152,
+      "bytes": 224918,
+      "sha256": "4723d63321fa54c10ed357c685cb6b46343a81f45687678e10782dd651d77b6b"
+    },
+    {
+      "id": "kyoto03",
+      "key": "journal130_kyoto03",
+      "kind": "editor",
+      "file": "v0130/editor/kyoto03.webp",
+      "url": "https://studiogravon.github.io/connecta-media/v0130/editor/kyoto03.webp",
+      "width": 768,
+      "height": 1152,
+      "bytes": 195794,
+      "sha256": "5b2ce2c27ff7cdf427f53c0ee4aa6ea62d654c2fff15b4de3e73729ef85379a5"
+    },
+    {
+      "id": "kyoto04",
+      "key": "journal130_kyoto04",
+      "kind": "editor",
+      "file": "v0130/editor/kyoto04.webp",
+      "url": "https://studiogravon.github.io/connecta-media/v0130/editor/kyoto04.webp",
+      "width": 768,
+      "height": 1152,
+      "bytes": 185352,
+      "sha256": "240f41dd212e4df78ce331a51bcff4a6b63f55c9e21283919c6175a8cae6108a"
+    },
+    {
+      "id": "kyoto05",
+      "key": "journal130_kyoto05",
+      "kind": "editor",
+      "file": "v0130/editor/kyoto05.webp",
+      "url": "https://studiogravon.github.io/connecta-media/v0130/editor/kyoto05.webp",
+      "width": 768,
+      "height": 1152,
+      "bytes": 195074,
+      "sha256": "d5182eaeb9ac4d76c676fb29a7d2477c26e284326d12052b835df812d37d7dc8"
+    },
+    {
+      "id": "paris01",
+      "key": "journal130_paris01",
+      "kind": "editor",
+      "file": "v0130/editor/paris01.webp",
+      "url": "https://studiogravon.github.io/connecta-media/v0130/editor/paris01.webp",
+      "width": 768,
+      "height": 1152,
+      "bytes": 147000,
+      "sha256": "9669213883cda9783afd882853fe62be50718ef9c67a2d92fdecc2604bd50f3c"
+    },
+    {
+      "id": "paris02",
+      "key": "journal130_paris02",
+      "kind": "editor",
+      "file": "v0130/editor/paris02.webp",
+      "url": "https://studiogravon.github.io/connecta-media/v0130/editor/paris02.webp",
+      "width": 768,
+      "height": 1152,
+      "bytes": 139868,
+      "sha256": "f4ac46da525dab0c22518833658994e8bad9208891c00738d8a65f59a0f18819"
+    },
+    {
+      "id": "paris03",
+      "key": "journal130_paris03",
+      "kind": "editor",
+      "file": "v0130/editor/paris03.webp",
+      "url": "https://studiogravon.github.io/connecta-media/v0130/editor/paris03.webp",
+      "width": 768,
+      "height": 1152,
+      "bytes": 66230,
+      "sha256": "e5c7a5c2a9d8bb36262aa995ed4540b8ef4ce22d725edf8c7171f996f6126397"
+    },
+    {
+      "id": "paris04",
+      "key": "journal130_paris04",
+      "kind": "editor",
+      "file": "v0130/editor/paris04.webp",
+      "url": "https://studiogravon.github.io/connecta-media/v0130/editor/paris04.webp",
+      "width": 768,
+      "height": 1152,
+      "bytes": 138540,
+      "sha256": "5ed61e2ca0e97ac7e6f23568a5af9d7f97f5c8bef6a7173b6fbd4190b8ed9ee5"
+    },
+    {
+      "id": "paris05",
+      "key": "journal130_paris05",
+      "kind": "editor",
+      "file": "v0130/editor/paris05.webp",
+      "url": "https://studiogravon.github.io/connecta-media/v0130/editor/paris05.webp",
+      "width": 768,
+      "height": 1152,
+      "bytes": 149362,
+      "sha256": "2ed254ada77d6c522a28a62cd0e0a4b2907c26b0a046ee17dff96ff2263c7212"
+    },
+    {
+      "id": "paris06",
+      "key": "journal130_paris06",
+      "kind": "editor",
+      "file": "v0130/editor/paris06.webp",
+      "url": "https://studiogravon.github.io/connecta-media/v0130/editor/paris06.webp",
+      "width": 768,
+      "height": 1152,
+      "bytes": 151328,
+      "sha256": "1f3157f05e60e31d8bfc82bfd9abd2750edf4ede8553b2fd755b61d9f1a5077a"
+    },
+    {
+      "id": "hawaii01",
+      "key": "journal130_hawaii01",
+      "kind": "editor",
+      "file": "v0130/editor/hawaii01.webp",
+      "url": "https://studiogravon.github.io/connecta-media/v0130/editor/hawaii01.webp",
+      "width": 768,
+      "height": 1152,
+      "bytes": 143672,
+      "sha256": "7c8fc7c501aaeaec70a47283406498780cae3569091cc5391f94e63c7eb0c63c"
+    },
+    {
+      "id": "hawaii02",
+      "key": "journal130_hawaii02",
+      "kind": "editor",
+      "file": "v0130/editor/hawaii02.webp",
+      "url": "https://studiogravon.github.io/connecta-media/v0130/editor/hawaii02.webp",
+      "width": 768,
+      "height": 1152,
+      "bytes": 141924,
+      "sha256": "71b2cbe39dbc1d3de2a8423049521a278cf56d39013e6e24c585d3d03e7c5528"
+    },
+    {
+      "id": "hawaii03",
+      "key": "journal130_hawaii03",
+      "kind": "editor",
+      "file": "v0130/editor/hawaii03.webp",
+      "url": "https://studiogravon.github.io/connecta-media/v0130/editor/hawaii03.webp",
+      "width": 768,
+      "height": 1152,
+      "bytes": 170372,
+      "sha256": "79ce15a821a3e11482c07524b6e05507aa8549faf0221f488720b37df54fc057"
+    },
+    {
+      "id": "hawaii04",
+      "key": "journal130_hawaii04",
+      "kind": "editor",
+      "file": "v0130/editor/hawaii04.webp",
+      "url": "https://studiogravon.github.io/connecta-media/v0130/editor/hawaii04.webp",
+      "width": 768,
+      "height": 1152,
+      "bytes": 109660,
+      "sha256": "d133fbbd8b868ee27620787ae3159c9a81eb39899a8925ab525a66e2ab29df32"
+    },
+    {
+      "id": "hawaii05",
+      "key": "journal130_hawaii05",
+      "kind": "editor",
+      "file": "v0130/editor/hawaii05.webp",
+      "url": "https://studiogravon.github.io/connecta-media/v0130/editor/hawaii05.webp",
+      "width": 768,
+      "height": 1152,
+      "bytes": 132958,
+      "sha256": "4e04951067c2f2ab39a4c0924ea02c0262c8ebaea686fa2e40b7236f6b54c648"
+    },
+    {
+      "id": "hawaii06",
+      "key": "journal130_hawaii06",
+      "kind": "editor",
+      "file": "v0130/editor/hawaii06.webp",
+      "url": "https://studiogravon.github.io/connecta-media/v0130/editor/hawaii06.webp",
+      "width": 768,
+      "height": 1152,
+      "bytes": 123664,
+      "sha256": "805abcd3fe533136dca409792bc2e473cdec19842d8a7a00bc9495b395e6322a"
+    }
+  ]
+}
