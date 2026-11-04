@@ -1,0 +1,351 @@
+{
+  "version": "0.14.52",
+  "kind": "three-photograph pose sequences",
+  "lookCount": 6,
+  "images": [
+    {
+      "frame": 1,
+      "file": "v01452/poses/ssB01-1.webp",
+      "asset": "pose_v01452_ssB01_1",
+      "url": "https://studiogravon.github.io/connecta-media/v01452/poses/ssB01-1.webp",
+      "width": 480,
+      "height": 720,
+      "bytes": 40740,
+      "sha256": "aed18d30485d693bc55c5efd183f74fdbcb8ef15292e705963f9665fb876aed3",
+      "pose": "정면으로 서 있는 모습",
+      "itemTargets": {
+        "ssB01-0": {
+          "x": 53,
+          "y": 47
+        },
+        "ssB01-1": {
+          "x": 53,
+          "y": 90
+        },
+        "ssB01-2": {
+          "x": 42,
+          "y": 51
+        }
+      },
+      "lookId": "ssB01"
+    },
+    {
+      "frame": 2,
+      "file": "v01452/poses/ssB01-2.webp",
+      "asset": "pose_v01452_ssB01_2",
+      "url": "https://studiogravon.github.io/connecta-media/v01452/poses/ssB01-2.webp",
+      "width": 480,
+      "height": 720,
+      "bytes": 40480,
+      "sha256": "c296fcd5c437830a82fa7659d581323952c86da11421ebf88901605732b69ab5",
+      "pose": "걷다가 머리카락을 정리하는 모습",
+      "itemTargets": {
+        "ssB01-0": {
+          "x": 51,
+          "y": 48
+        },
+        "ssB01-1": {
+          "x": 60,
+          "y": 92
+        },
+        "ssB01-2": {
+          "x": 37,
+          "y": 51
+        }
+      },
+      "lookId": "ssB01"
+    },
+    {
+      "frame": 1,
+      "file": "v01452/poses/mn03-1.webp",
+      "asset": "pose_v01452_mn03_1",
+      "url": "https://studiogravon.github.io/connecta-media/v01452/poses/mn03-1.webp",
+      "width": 480,
+      "height": 720,
+      "bytes": 32864,
+      "sha256": "94cf08a9f86a8bf4459046650566c0c26b7fbe036db4013cb171b6680dfb352f",
+      "pose": "주머니에 손을 넣고 선 모습",
+      "itemTargets": {
+        "mn03-0": {
+          "x": 43,
+          "y": 31
+        },
+        "mn03-1": {
+          "x": 48,
+          "y": 31
+        },
+        "mn03-2": {
+          "x": 55,
+          "y": 65
+        },
+        "mn03-3": {
+          "x": 67,
+          "y": 90
+        }
+      },
+      "lookId": "mn03"
+    },
+    {
+      "frame": 2,
+      "file": "v01452/poses/mn03-2.webp",
+      "asset": "pose_v01452_mn03_2",
+      "url": "https://studiogravon.github.io/connecta-media/v01452/poses/mn03-2.webp",
+      "width": 480,
+      "height": 720,
+      "bytes": 31766,
+      "sha256": "4c462e24f942a2b27815e98551cdc696d9e41ed89f18182ae325a39d122b7759",
+      "pose": "재킷을 가볍게 잡고 걷는 모습",
+      "itemTargets": {
+        "mn03-0": {
+          "x": 57,
+          "y": 32
+        },
+        "mn03-1": {
+          "x": 49,
+          "y": 31
+        },
+        "mn03-2": {
+          "x": 51,
+          "y": 66
+        },
+        "mn03-3": {
+          "x": 45,
+          "y": 91
+        }
+      },
+      "lookId": "mn03"
+    },
+    {
+      "frame": 1,
+      "file": "v01452/poses/ux02-1.webp",
+      "asset": "pose_v01452_ux02_1",
+      "url": "https://studiogravon.github.io/connecta-media/v01452/poses/ux02-1.webp",
+      "width": 480,
+      "height": 720,
+      "bytes": 18438,
+      "sha256": "b0907078136fc5b6ae265f52395d218116310873c9688cb21c0ed45c9bcab4f0",
+      "pose": "주머니에 손을 넣고 정면으로 선 모습",
+      "itemTargets": {
+        "ux02-0": {
+          "x": 40,
+          "y": 35
+        },
+        "ux02-1": {
+          "x": 56,
+          "y": 30
+        },
+        "ux02-2": {
+          "x": 49,
+          "y": 65
+        },
+        "ux02-3": {
+          "x": 59,
+          "y": 91
+        }
+      },
+      "lookId": "ux02"
+    },
+    {
+      "frame": 2,
+      "file": "v01452/poses/ux02-2.webp",
+      "asset": "pose_v01452_ux02_2",
+      "url": "https://studiogravon.github.io/connecta-media/v01452/poses/ux02-2.webp",
+      "width": 480,
+      "height": 720,
+      "bytes": 18776,
+      "sha256": "ea86a62a19d1095a4028d6fb814d06fbe7565217a1508a2e72edfe5a64b93bfe",
+      "pose": "시선을 옆으로 두고 걷는 모습",
+      "itemTargets": {
+        "ux02-0": {
+          "x": 41,
+          "y": 35
+        },
+        "ux02-1": {
+          "x": 52,
+          "y": 31
+        },
+        "ux02-2": {
+          "x": 50,
+          "y": 64
+        },
+        "ux02-3": {
+          "x": 56,
+          "y": 92
+        }
+      },
+      "lookId": "ux02"
+    },
+    {
+      "frame": 1,
+      "file": "v01452/poses/ssB02-1.webp",
+      "asset": "pose_v01452_ssB02_1",
+      "url": "https://studiogravon.github.io/connecta-media/v01452/poses/ssB02-1.webp",
+      "width": 480,
+      "height": 720,
+      "bytes": 52536,
+      "sha256": "b04466cd29cdf0ef747726655d305021ef4e8147a39aa38f69e0c52506c59fec",
+      "pose": "가방을 들고 정면으로 선 모습",
+      "itemTargets": {
+        "ssB02-0": {
+          "x": 51,
+          "y": 47
+        },
+        "ssB02-1": {
+          "x": 55,
+          "y": 91
+        },
+        "ssB02-2": {
+          "x": 30,
+          "y": 59
+        }
+      },
+      "lookId": "ssB02"
+    },
+    {
+      "frame": 2,
+      "file": "v01452/poses/ssB02-2.webp",
+      "asset": "pose_v01452_ssB02_2",
+      "url": "https://studiogravon.github.io/connecta-media/v01452/poses/ssB02-2.webp",
+      "width": 480,
+      "height": 720,
+      "bytes": 53326,
+      "sha256": "3c0a49e820c7a40c27677c972705c23a40675b6e921d0c147dbf07370f0bf47b",
+      "pose": "시선을 돌리며 걷는 모습",
+      "itemTargets": {
+        "ssB02-0": {
+          "x": 52,
+          "y": 47
+        },
+        "ssB02-1": {
+          "x": 54,
+          "y": 91
+        },
+        "ssB02-2": {
+          "x": 32,
+          "y": 59
+        }
+      },
+      "lookId": "ssB02"
+    },
+    {
+      "frame": 1,
+      "file": "v01452/poses/mn05-1.webp",
+      "asset": "pose_v01452_mn05_1",
+      "url": "https://studiogravon.github.io/connecta-media/v01452/poses/mn05-1.webp",
+      "width": 480,
+      "height": 720,
+      "bytes": 35520,
+      "sha256": "d21aea5d57682c2a50da8758c9974a463bc0317b069ab7224a3fb9cfec638519",
+      "pose": "시선을 옆으로 두고 선 모습",
+      "itemTargets": {
+        "mn05-0": {
+          "x": 43,
+          "y": 31
+        },
+        "mn05-1": {
+          "x": 50,
+          "y": 30
+        },
+        "mn05-2": {
+          "x": 54,
+          "y": 65
+        },
+        "mn05-3": {
+          "x": 67,
+          "y": 90
+        }
+      },
+      "lookId": "mn05"
+    },
+    {
+      "frame": 2,
+      "file": "v01452/poses/mn05-2.webp",
+      "asset": "pose_v01452_mn05_2",
+      "url": "https://studiogravon.github.io/connecta-media/v01452/poses/mn05-2.webp",
+      "width": 480,
+      "height": 720,
+      "bytes": 35052,
+      "sha256": "9e3a45ed4c2c10fe98c38a4828416739ad69e085c6d456e13c08fa39d79f50b1",
+      "pose": "재킷 라펠을 잡고 걷는 모습",
+      "itemTargets": {
+        "mn05-0": {
+          "x": 39,
+          "y": 31
+        },
+        "mn05-1": {
+          "x": 51,
+          "y": 30
+        },
+        "mn05-2": {
+          "x": 50,
+          "y": 65
+        },
+        "mn05-3": {
+          "x": 47,
+          "y": 91
+        }
+      },
+      "lookId": "mn05"
+    },
+    {
+      "frame": 1,
+      "file": "v01452/poses/ux05-1.webp",
+      "asset": "pose_v01452_ux05_1",
+      "url": "https://studiogravon.github.io/connecta-media/v01452/poses/ux05-1.webp",
+      "width": 480,
+      "height": 720,
+      "bytes": 22130,
+      "sha256": "e48840d54712aff1e1a4bcc1ebf3cd5434bd8b7d450613dbd8206e990ead569f",
+      "pose": "한 손을 주머니에 넣고 선 모습",
+      "itemTargets": {
+        "ux05-0": {
+          "x": 40,
+          "y": 32
+        },
+        "ux05-1": {
+          "x": 49,
+          "y": 32
+        },
+        "ux05-2": {
+          "x": 49,
+          "y": 65
+        },
+        "ux05-3": {
+          "x": 57,
+          "y": 88
+        }
+      },
+      "lookId": "ux05"
+    },
+    {
+      "frame": 2,
+      "file": "v01452/poses/ux05-2.webp",
+      "asset": "pose_v01452_ux05_2",
+      "url": "https://studiogravon.github.io/connecta-media/v01452/poses/ux05-2.webp",
+      "width": 480,
+      "height": 720,
+      "bytes": 23472,
+      "sha256": "88c4512998caf6e41d582c86287cacb4c4dcbd2aad4e63556727ff5968449510",
+      "pose": "시선을 옆으로 두고 걷는 모습",
+      "itemTargets": {
+        "ux05-0": {
+          "x": 56,
+          "y": 33
+        },
+        "ux05-1": {
+          "x": 49,
+          "y": 32
+        },
+        "ux05-2": {
+          "x": 49,
+          "y": 65
+        },
+        "ux05-3": {
+          "x": 48,
+          "y": 90
+        }
+      },
+      "lookId": "ux05"
+    }
+  ]
+}
