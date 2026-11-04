@@ -1,0 +1,631 @@
+{
+  "version": "0.14.53",
+  "created": "2026-11-04",
+  "generator": "Built-in image_gen; six side views generated from the matching source look. Twelve front/walking photographs reused without visual alteration.",
+  "rights": "AI-generated synthetic fashion photographs for the CONNECTA prototype; no real-person endorsement or merchandise verification implied.",
+  "processing": "No compositional edit or crop. Reused 480x720 WebP bytes; new full-frame 2:3 images resized to 480x720, WebP quality82 effort6.",
+  "sourceJobs": "source-jobs.json",
+  "generationPrompts": [
+    {
+      "id": "ssB01",
+      "ref": "C:/Users/user/Documents/Codex/2026-10-22/https-chatgpt-com-c-6acdd8b4-25b8/work/connecta-home-autoplay/assets/pose-sequence-v01452/generated/ssB01-1.webp",
+      "prompt": "Use case: photorealistic-natural / identity-preserve. Create one refined alternate fashion photograph based on the reference. One single portrait 2:3 frame, NOT a collage. Preserve this exact adult fictional East Asian woman, short dark bob, ivory asymmetric one-shoulder draped midi dress, burgundy envelope clutch in the same hand, black pointed kitten heels, and the identical sunlit stone colonnade street. Change only her pose: her shoulders, hips and feet turn together roughly 55 degrees toward image right, a calm natural three-quarter SIDE view, with face gently turned back toward the camera. Relaxed arm with the clutch clearly visible against her side, natural hands; do not invent dress details. The camera stays fixed, same focal length/background perspective, warm light and exposure. Place full head at y5%, soles at y93%, center body at x50%, same model scale as reference. Complete head and both shoes, even headroom/footroom. Keep clothes, color, tailoring and accessory details identical. No text, borders, logos, extra people, motion blur, mirrored outfit or close-up.",
+      "generatedPath": "C:/Users/user/.codex/generated_images/01a16231-81fa-7c72-af19-89a1aefc937a/exec-bce40e2e-54ac-42d5-8a34-09861ca5f674.png",
+      "method": "built-in image_gen__imagegen",
+      "transparent_background": false
+    },
+    {
+      "id": "mn03",
+      "ref": "C:/Users/user/Documents/Codex/2026-10-22/https-chatgpt-com-c-6acdd8b4-25b8/work/connecta-home-autoplay/assets/pose-sequence-v01452/baseline/mn03.webp",
+      "prompt": "Use case: photorealistic-natural / identity-preserve. Create one alternate fashion photograph based on the reference, one portrait 2:3 frame, NOT a collage. Preserve the same adult fictional East Asian male model with tousled black hair, burgundy leather blouson worn open, charcoal turtleneck, black flared wool trousers and glossy black ankle boots, in exactly this warm brick colonnade hall. Change only pose: shoulders/hips/feet rotate together about 55 degrees toward image left, a composed natural three-quarter SIDE stance; face may turn gently toward camera, one hand at pocket, the other relaxed without hiding the jacket. Camera position, lens, brick pillars, lighting, exposure, colors remain fixed. Head top y5%, soles y93%, full body centered x50%, same scale and margins as reference. Show complete shoes and head. Preserve clothing texture/construction, identity and proportions. No text, logos, frame, extra people, blur, redesign or new accessories.",
+      "generatedPath": "C:/Users/user/.codex/generated_images/01a16231-81fa-7c72-af19-89a1aefc937a/exec-f0602918-0d40-4325-93ed-c86d5d881be3.png",
+      "method": "built-in image_gen__imagegen",
+      "transparent_background": false
+    },
+    {
+      "id": "ux02",
+      "ref": "C:/Users/user/Documents/Codex/2026-10-22/https-chatgpt-com-c-6acdd8b4-25b8/work/connecta-home-autoplay/assets/pose-sequence-v01452/generated/ux02-1.webp",
+      "prompt": "Use case: photorealistic-natural / identity-preserve. Create one alternate fashion photograph from the reference, single portrait 2:3 frame, NOT a collage. Preserve this same adult fictional Black model with very short hair, charcoal draped long open jacket with asymmetric hanging front, stone-grey crewneck tee, black wide pleated trousers, black leather ankle boots, in the identical modern grey art gallery. Pose change only: shoulders, hips and feet turned together about 55 degrees toward image right to show a natural three-quarter SIDE silhouette, relaxed stance, face gently angled toward camera, arms natural and not concealing drape. Camera remains at identical height/distance/lens; retain wall art/background perspective, soft neutral illumination and exposure. Head top y4%, soles y94%, body center x50%, same full-body size. Include whole head and both boots with quiet margins. Preserve every garment, model identity, color and material, no added details. No text, logos, borders, additional people, blur, cropped limbs or full rear view.",
+      "generatedPath": "C:/Users/user/.codex/generated_images/01a16231-81fa-7c72-af19-89a1aefc937a/exec-004021a3-0c2c-42e9-be1c-6fba7daa5ef1.png",
+      "method": "built-in image_gen__imagegen",
+      "transparent_background": false
+    },
+    {
+      "id": "ssB02",
+      "ref": "C:/Users/user/Documents/Codex/2026-10-22/https-chatgpt-com-c-6acdd8b4-25b8/work/connecta-home-autoplay/assets/pose-sequence-v01452/generated/ssB02-1.webp",
+      "prompt": "Use case: photorealistic-natural / identity-preserve. Make one alternate fashion photograph matching the reference exactly: one portrait 2:3, NOT a collage. Same adult fictional Black woman with short natural curly afro, deep-teal satin long-sleeve wrap midi dress with waist tie, delicate gold strap sandals, small cream crescent handbag held in the same hand, identical sunlit museum plaza and dark sculpture. Change only pose: shoulders, hips and feet turned together about 55 degrees toward image right, a graceful three-quarter SIDE stance, calm smile and face slightly toward camera; handbag and wrap tie remain visible. Camera locked to reference position/distance/lens, unchanged sculpture perspective, warm light, exposure and color. Full head at y4%, complete soles at y93%, body centered x50%, consistent scale/margins. Keep same face, proportions and garment construction/material, real natural hands, both complete sandals. No new people, text, logos, frame, dress redesign, blur or crop.",
+      "generatedPath": "C:/Users/user/.codex/generated_images/01a16231-81fa-7c72-af19-89a1aefc937a/exec-2d7f6cb4-e545-4708-b77a-e4ea5a4c07c2.png",
+      "method": "built-in image_gen__imagegen",
+      "transparent_background": false
+    },
+    {
+      "id": "mn05",
+      "ref": "C:/Users/user/Documents/Codex/2026-10-22/https-chatgpt-com-c-6acdd8b4-25b8/work/connecta-home-autoplay/assets/pose-sequence-v01452/baseline/mn05.webp",
+      "prompt": "Use case: photorealistic-natural / identity-preserve. One single portrait 2:3 alternate fashion photograph based on this reference, NOT a collage. Same adult fictional blond man with short hair and light beard, midnight navy fitted blazer open over dusty-blue unbuttoned-collar shirt, charcoal fine-pinstripe tailored trousers, shiny black Chelsea boots, exactly this glass-and-steel evening runway with city lights and blurred seated audience. Change only pose: whole shoulders/hips/feet turn 55 degrees toward image left, a relaxed three-quarter SIDE stance with one hand at pocket and one relaxed, face gently toward camera. Preserve model identity, same garments and their detailing. Camera fixed at original height/lens/distance, identical architecture/light/exposure, centered full figure x50%, head top y3%, boot soles y93%, full head and both complete boots. No text, logo, border, new props/people, redesign, motion blur or close-up.",
+      "generatedPath": "C:/Users/user/.codex/generated_images/01a16231-81fa-7c72-af19-89a1aefc937a/exec-3e5abc99-cc0c-492f-bba3-e9350245f9e0.png",
+      "method": "built-in image_gen__imagegen",
+      "transparent_background": false
+    },
+    {
+      "id": "ux05",
+      "ref": "C:/Users/user/Documents/Codex/2026-10-22/https-chatgpt-com-c-6acdd8b4-25b8/work/connecta-home-autoplay/assets/pose-sequence-v01452/generated/ux05-1.webp",
+      "prompt": "Use case: photorealistic-natural / identity-preserve. Produce one alternate full-body fashion photograph from the reference, portrait 2:3 frame, NOT collage. Preserve exact adult fictional androgynous model with curly brown mullet hair, silver-grey technical bomber with sleeve zip pocket worn open, black knit top, charcoal baggy parachute cargo trousers with straps, chunky black trail sneakers, in same dark runway with blurred seated audience. Change only body pose: shoulders/hips/feet rotate together about 55 degrees toward image right, relaxed three-quarter SIDE stance, face angled slightly back toward camera; arms natural and bomber/cargo side details visible. Identical fixed camera position/lens/perspective, neutral runway exposure/colors, head top y4%, soles y93%, centered x50%, constant full-body scale and head/foot margins. Same face, clothing, colors, materials, straps and sneakers. No garment redesign, text/logo, borders, additional people, cropped shoes or motion blur.",
+      "generatedPath": "C:/Users/user/.codex/generated_images/01a16231-81fa-7c72-af19-89a1aefc937a/exec-f6122a70-c90e-4e71-95c8-faa02a35a4a2.png",
+      "method": "built-in image_gen__imagegen",
+      "transparent_background": false
+    }
+  ],
+  "reusedFrameProvenance": "../pose-sequence-v01452/manifest.json",
+  "entries": [
+    {
+      "lookId": "ssB01",
+      "index": 0,
+      "label": "정면",
+      "sourcePath": "assets/pose-sequence-v01452/generated/ssB01-1.webp",
+      "sourceSha256": "aed18d30485d693bc55c5efd183f74fdbcb8ef15292e705963f9665fb876aed3",
+      "asset": "pose_v01453_ssB01_0",
+      "url": "https://studiogravon.github.io/connecta-media/v01453/poses/ssB01-0.webp",
+      "localPath": "assets/pose-refinement-v01453/generated/ssB01-0.webp",
+      "width": 480,
+      "height": 720,
+      "bytes": 40740,
+      "sha256": "aed18d30485d693bc55c5efd183f74fdbcb8ef15292e705963f9665fb876aed3",
+      "itemTargets": {
+        "ssB01-0": {
+          "x": 53,
+          "y": 48
+        },
+        "ssB01-1": {
+          "x": 46,
+          "y": 91.5
+        },
+        "ssB01-2": {
+          "x": 44,
+          "y": 51
+        }
+      },
+      "review": "Manually inspected full-body photograph and clothing anchors. Shoes target a visible shoe surface, not the empty midpoint between feet."
+    },
+    {
+      "lookId": "ssB01",
+      "index": 1,
+      "label": "걷기",
+      "sourcePath": "assets/pose-sequence-v01452/generated/ssB01-2.webp",
+      "sourceSha256": "c296fcd5c437830a82fa7659d581323952c86da11421ebf88901605732b69ab5",
+      "asset": "pose_v01453_ssB01_1",
+      "url": "https://studiogravon.github.io/connecta-media/v01453/poses/ssB01-1.webp",
+      "localPath": "assets/pose-refinement-v01453/generated/ssB01-1.webp",
+      "width": 480,
+      "height": 720,
+      "bytes": 40480,
+      "sha256": "c296fcd5c437830a82fa7659d581323952c86da11421ebf88901605732b69ab5",
+      "itemTargets": {
+        "ssB01-0": {
+          "x": 50,
+          "y": 49
+        },
+        "ssB01-1": {
+          "x": 60,
+          "y": 93.5
+        },
+        "ssB01-2": {
+          "x": 39,
+          "y": 51
+        }
+      },
+      "review": "Manually inspected full-body photograph and clothing anchors. Shoes target a visible shoe surface, not the empty midpoint between feet."
+    },
+    {
+      "lookId": "ssB01",
+      "index": 2,
+      "label": "옆모습",
+      "sourcePath": "C:/Users/user/.codex/generated_images/01a16231-81fa-7c72-af19-89a1aefc937a/exec-bce40e2e-54ac-42d5-8a34-09861ca5f674.png",
+      "sourceSha256": "50a95404f5590788cda8763053d20c90344a5d17d0a4194db1b6b780464c8269",
+      "asset": "pose_v01453_ssB01_2",
+      "url": "https://studiogravon.github.io/connecta-media/v01453/poses/ssB01-2.webp",
+      "localPath": "assets/pose-refinement-v01453/generated/ssB01-2.webp",
+      "width": 480,
+      "height": 720,
+      "bytes": 39462,
+      "sha256": "8dcca7ce69c7bd61d79ca177ce013db9cb67559f6f47ff0f4da1eff9a3201fef",
+      "itemTargets": {
+        "ssB01-0": {
+          "x": 56,
+          "y": 43
+        },
+        "ssB01-1": {
+          "x": 53,
+          "y": 90.3
+        },
+        "ssB01-2": {
+          "x": 51,
+          "y": 51
+        }
+      },
+      "review": "Manually inspected full-body photograph and clothing anchors. Shoes target a visible shoe surface, not the empty midpoint between feet."
+    },
+    {
+      "lookId": "mn03",
+      "index": 0,
+      "label": "정면",
+      "sourcePath": "assets/pose-sequence-v01452/baseline/mn03.webp",
+      "sourceSha256": "9225d22a87541874e79885afe39c64b0c6338da04d048fb73a4d50b71c47c88a",
+      "asset": "pose_v01453_mn03_0",
+      "url": "https://studiogravon.github.io/connecta-media/v01453/poses/mn03-0.webp",
+      "localPath": "assets/pose-refinement-v01453/generated/mn03-0.webp",
+      "width": 480,
+      "height": 720,
+      "bytes": 19840,
+      "sha256": "9225d22a87541874e79885afe39c64b0c6338da04d048fb73a4d50b71c47c88a",
+      "itemTargets": {
+        "mn03-0": {
+          "x": 34,
+          "y": 29
+        },
+        "mn03-1": {
+          "x": 45,
+          "y": 28
+        },
+        "mn03-2": {
+          "x": 53,
+          "y": 63
+        },
+        "mn03-3": {
+          "x": 67,
+          "y": 89.5
+        }
+      },
+      "review": "Manually inspected full-body photograph and clothing anchors. Shoes target a visible shoe surface, not the empty midpoint between feet."
+    },
+    {
+      "lookId": "mn03",
+      "index": 1,
+      "label": "걷기",
+      "sourcePath": "assets/pose-sequence-v01452/generated/mn03-2.webp",
+      "sourceSha256": "4c462e24f942a2b27815e98551cdc696d9e41ed89f18182ae325a39d122b7759",
+      "asset": "pose_v01453_mn03_1",
+      "url": "https://studiogravon.github.io/connecta-media/v01453/poses/mn03-1.webp",
+      "localPath": "assets/pose-refinement-v01453/generated/mn03-1.webp",
+      "width": 480,
+      "height": 720,
+      "bytes": 31766,
+      "sha256": "4c462e24f942a2b27815e98551cdc696d9e41ed89f18182ae325a39d122b7759",
+      "itemTargets": {
+        "mn03-0": {
+          "x": 59,
+          "y": 31
+        },
+        "mn03-1": {
+          "x": 47,
+          "y": 29
+        },
+        "mn03-2": {
+          "x": 46,
+          "y": 64
+        },
+        "mn03-3": {
+          "x": 44,
+          "y": 92.5
+        }
+      },
+      "review": "Manually inspected full-body photograph and clothing anchors. Shoes target a visible shoe surface, not the empty midpoint between feet."
+    },
+    {
+      "lookId": "mn03",
+      "index": 2,
+      "label": "옆모습",
+      "sourcePath": "C:/Users/user/.codex/generated_images/01a16231-81fa-7c72-af19-89a1aefc937a/exec-f0602918-0d40-4325-93ed-c86d5d881be3.png",
+      "sourceSha256": "a8d20bfc6c0a170c94e417a0b11b638afefa794c479b437752adddb56e5d2521",
+      "asset": "pose_v01453_mn03_2",
+      "url": "https://studiogravon.github.io/connecta-media/v01453/poses/mn03-2.webp",
+      "localPath": "assets/pose-refinement-v01453/generated/mn03-2.webp",
+      "width": 480,
+      "height": 720,
+      "bytes": 30906,
+      "sha256": "823ead67fb0aa5025fba20385db0e6d4aeaae8057f9250567fa74b12c677b621",
+      "itemTargets": {
+        "mn03-0": {
+          "x": 56,
+          "y": 31
+        },
+        "mn03-1": {
+          "x": 44.5,
+          "y": 31
+        },
+        "mn03-2": {
+          "x": 54,
+          "y": 64
+        },
+        "mn03-3": {
+          "x": 50,
+          "y": 89
+        }
+      },
+      "review": "Manually inspected full-body photograph and clothing anchors. Shoes target a visible shoe surface, not the empty midpoint between feet."
+    },
+    {
+      "lookId": "ux02",
+      "index": 0,
+      "label": "정면",
+      "sourcePath": "assets/pose-sequence-v01452/generated/ux02-1.webp",
+      "sourceSha256": "b0907078136fc5b6ae265f52395d218116310873c9688cb21c0ed45c9bcab4f0",
+      "asset": "pose_v01453_ux02_0",
+      "url": "https://studiogravon.github.io/connecta-media/v01453/poses/ux02-0.webp",
+      "localPath": "assets/pose-refinement-v01453/generated/ux02-0.webp",
+      "width": 480,
+      "height": 720,
+      "bytes": 18438,
+      "sha256": "b0907078136fc5b6ae265f52395d218116310873c9688cb21c0ed45c9bcab4f0",
+      "itemTargets": {
+        "ux02-0": {
+          "x": 40,
+          "y": 30
+        },
+        "ux02-1": {
+          "x": 55,
+          "y": 29
+        },
+        "ux02-2": {
+          "x": 48,
+          "y": 62
+        },
+        "ux02-3": {
+          "x": 35.5,
+          "y": 92.5
+        }
+      },
+      "review": "Manually inspected full-body photograph and clothing anchors. Shoes target a visible shoe surface, not the empty midpoint between feet."
+    },
+    {
+      "lookId": "ux02",
+      "index": 1,
+      "label": "걷기",
+      "sourcePath": "assets/pose-sequence-v01452/generated/ux02-2.webp",
+      "sourceSha256": "ea86a62a19d1095a4028d6fb814d06fbe7565217a1508a2e72edfe5a64b93bfe",
+      "asset": "pose_v01453_ux02_1",
+      "url": "https://studiogravon.github.io/connecta-media/v01453/poses/ux02-1.webp",
+      "localPath": "assets/pose-refinement-v01453/generated/ux02-1.webp",
+      "width": 480,
+      "height": 720,
+      "bytes": 18776,
+      "sha256": "ea86a62a19d1095a4028d6fb814d06fbe7565217a1508a2e72edfe5a64b93bfe",
+      "itemTargets": {
+        "ux02-0": {
+          "x": 39,
+          "y": 31
+        },
+        "ux02-1": {
+          "x": 52,
+          "y": 29
+        },
+        "ux02-2": {
+          "x": 50,
+          "y": 62
+        },
+        "ux02-3": {
+          "x": 53,
+          "y": 94
+        }
+      },
+      "review": "Manually inspected full-body photograph and clothing anchors. Shoes target a visible shoe surface, not the empty midpoint between feet."
+    },
+    {
+      "lookId": "ux02",
+      "index": 2,
+      "label": "옆모습",
+      "sourcePath": "C:/Users/user/.codex/generated_images/01a16231-81fa-7c72-af19-89a1aefc937a/exec-004021a3-0c2c-42e9-be1c-6fba7daa5ef1.png",
+      "sourceSha256": "bd4c339f87c2cc7f2dd99400f273ec91361111b8ec50f36931d09f3183e7a9e8",
+      "asset": "pose_v01453_ux02_2",
+      "url": "https://studiogravon.github.io/connecta-media/v01453/poses/ux02-2.webp",
+      "localPath": "assets/pose-refinement-v01453/generated/ux02-2.webp",
+      "width": 480,
+      "height": 720,
+      "bytes": 17434,
+      "sha256": "e2109c0ddb172b1dd3fa7b55556a6072161a4ff73d7c2456aee28fa78326fe07",
+      "itemTargets": {
+        "ux02-0": {
+          "x": 47,
+          "y": 31
+        },
+        "ux02-1": {
+          "x": 57,
+          "y": 28
+        },
+        "ux02-2": {
+          "x": 52,
+          "y": 67
+        },
+        "ux02-3": {
+          "x": 47,
+          "y": 93.5
+        }
+      },
+      "review": "Manually inspected full-body photograph and clothing anchors. Shoes target a visible shoe surface, not the empty midpoint between feet."
+    },
+    {
+      "lookId": "ssB02",
+      "index": 0,
+      "label": "정면",
+      "sourcePath": "assets/pose-sequence-v01452/generated/ssB02-1.webp",
+      "sourceSha256": "b04466cd29cdf0ef747726655d305021ef4e8147a39aa38f69e0c52506c59fec",
+      "asset": "pose_v01453_ssB02_0",
+      "url": "https://studiogravon.github.io/connecta-media/v01453/poses/ssB02-0.webp",
+      "localPath": "assets/pose-refinement-v01453/generated/ssB02-0.webp",
+      "width": 480,
+      "height": 720,
+      "bytes": 52536,
+      "sha256": "b04466cd29cdf0ef747726655d305021ef4e8147a39aa38f69e0c52506c59fec",
+      "itemTargets": {
+        "ssB02-0": {
+          "x": 50,
+          "y": 47
+        },
+        "ssB02-1": {
+          "x": 54,
+          "y": 91.5
+        },
+        "ssB02-2": {
+          "x": 30,
+          "y": 61
+        }
+      },
+      "review": "Manually inspected full-body photograph and clothing anchors. Shoes target a visible shoe surface, not the empty midpoint between feet."
+    },
+    {
+      "lookId": "ssB02",
+      "index": 1,
+      "label": "걷기",
+      "sourcePath": "assets/pose-sequence-v01452/generated/ssB02-2.webp",
+      "sourceSha256": "3c0a49e820c7a40c27677c972705c23a40675b6e921d0c147dbf07370f0bf47b",
+      "asset": "pose_v01453_ssB02_1",
+      "url": "https://studiogravon.github.io/connecta-media/v01453/poses/ssB02-1.webp",
+      "localPath": "assets/pose-refinement-v01453/generated/ssB02-1.webp",
+      "width": 480,
+      "height": 720,
+      "bytes": 53326,
+      "sha256": "3c0a49e820c7a40c27677c972705c23a40675b6e921d0c147dbf07370f0bf47b",
+      "itemTargets": {
+        "ssB02-0": {
+          "x": 50,
+          "y": 47
+        },
+        "ssB02-1": {
+          "x": 53.5,
+          "y": 92.5
+        },
+        "ssB02-2": {
+          "x": 32,
+          "y": 61.5
+        }
+      },
+      "review": "Manually inspected full-body photograph and clothing anchors. Shoes target a visible shoe surface, not the empty midpoint between feet."
+    },
+    {
+      "lookId": "ssB02",
+      "index": 2,
+      "label": "옆모습",
+      "sourcePath": "C:/Users/user/.codex/generated_images/01a16231-81fa-7c72-af19-89a1aefc937a/exec-2d7f6cb4-e545-4708-b77a-e4ea5a4c07c2.png",
+      "sourceSha256": "0d6e07c2c39d6ae026409836d6dfe8c12eb3353ee1ef53571c9b2ee97200c618",
+      "asset": "pose_v01453_ssB02_2",
+      "url": "https://studiogravon.github.io/connecta-media/v01453/poses/ssB02-2.webp",
+      "localPath": "assets/pose-refinement-v01453/generated/ssB02-2.webp",
+      "width": 480,
+      "height": 720,
+      "bytes": 53546,
+      "sha256": "efc9a5c4a367c3e03ec3f6521ccb68ea634d35d99adb4afa95b2ec6061796141",
+      "itemTargets": {
+        "ssB02-0": {
+          "x": 52,
+          "y": 44
+        },
+        "ssB02-1": {
+          "x": 58.5,
+          "y": 90.5
+        },
+        "ssB02-2": {
+          "x": 38,
+          "y": 60.5
+        }
+      },
+      "review": "Manually inspected full-body photograph and clothing anchors. Shoes target a visible shoe surface, not the empty midpoint between feet."
+    },
+    {
+      "lookId": "mn05",
+      "index": 0,
+      "label": "정면",
+      "sourcePath": "assets/pose-sequence-v01452/baseline/mn05.webp",
+      "sourceSha256": "5fb699dc5a531195eac110872eea2d4267da21ac780a10fa2e018a14d6f3bee6",
+      "asset": "pose_v01453_mn05_0",
+      "url": "https://studiogravon.github.io/connecta-media/v01453/poses/mn05-0.webp",
+      "localPath": "assets/pose-refinement-v01453/generated/mn05-0.webp",
+      "width": 480,
+      "height": 720,
+      "bytes": 23230,
+      "sha256": "5fb699dc5a531195eac110872eea2d4267da21ac780a10fa2e018a14d6f3bee6",
+      "itemTargets": {
+        "mn05-0": {
+          "x": 34,
+          "y": 28
+        },
+        "mn05-1": {
+          "x": 46,
+          "y": 29
+        },
+        "mn05-2": {
+          "x": 49,
+          "y": 61.5
+        },
+        "mn05-3": {
+          "x": 68,
+          "y": 91.3
+        }
+      },
+      "review": "Manually inspected full-body photograph and clothing anchors. Shoes target a visible shoe surface, not the empty midpoint between feet."
+    },
+    {
+      "lookId": "mn05",
+      "index": 1,
+      "label": "걷기",
+      "sourcePath": "assets/pose-sequence-v01452/generated/mn05-2.webp",
+      "sourceSha256": "9e3a45ed4c2c10fe98c38a4828416739ad69e085c6d456e13c08fa39d79f50b1",
+      "asset": "pose_v01453_mn05_1",
+      "url": "https://studiogravon.github.io/connecta-media/v01453/poses/mn05-1.webp",
+      "localPath": "assets/pose-refinement-v01453/generated/mn05-1.webp",
+      "width": 480,
+      "height": 720,
+      "bytes": 35052,
+      "sha256": "9e3a45ed4c2c10fe98c38a4828416739ad69e085c6d456e13c08fa39d79f50b1",
+      "itemTargets": {
+        "mn05-0": {
+          "x": 37,
+          "y": 30.5
+        },
+        "mn05-1": {
+          "x": 49,
+          "y": 33
+        },
+        "mn05-2": {
+          "x": 43.5,
+          "y": 62.5
+        },
+        "mn05-3": {
+          "x": 48,
+          "y": 92
+        }
+      },
+      "review": "Manually inspected full-body photograph and clothing anchors. Shoes target a visible shoe surface, not the empty midpoint between feet."
+    },
+    {
+      "lookId": "mn05",
+      "index": 2,
+      "label": "옆모습",
+      "sourcePath": "C:/Users/user/.codex/generated_images/01a16231-81fa-7c72-af19-89a1aefc937a/exec-3e5abc99-cc0c-492f-bba3-e9350245f9e0.png",
+      "sourceSha256": "b1a010e6a69f7d52566daeb9ce1408345cdb22caeb5513215951c281005114e5",
+      "asset": "pose_v01453_mn05_2",
+      "url": "https://studiogravon.github.io/connecta-media/v01453/poses/mn05-2.webp",
+      "localPath": "assets/pose-refinement-v01453/generated/mn05-2.webp",
+      "width": 480,
+      "height": 720,
+      "bytes": 37974,
+      "sha256": "4c21b05a129a4b162c944a3919318e804a2486074ec43c731a3d1f8aee43a7fa",
+      "itemTargets": {
+        "mn05-0": {
+          "x": 57,
+          "y": 30
+        },
+        "mn05-1": {
+          "x": 44,
+          "y": 30
+        },
+        "mn05-2": {
+          "x": 51,
+          "y": 65
+        },
+        "mn05-3": {
+          "x": 51,
+          "y": 92.5
+        }
+      },
+      "review": "Manually inspected full-body photograph and clothing anchors. Shoes target a visible shoe surface, not the empty midpoint between feet."
+    },
+    {
+      "lookId": "ux05",
+      "index": 0,
+      "label": "정면",
+      "sourcePath": "assets/pose-sequence-v01452/generated/ux05-1.webp",
+      "sourceSha256": "e48840d54712aff1e1a4bcc1ebf3cd5434bd8b7d450613dbd8206e990ead569f",
+      "asset": "pose_v01453_ux05_0",
+      "url": "https://studiogravon.github.io/connecta-media/v01453/poses/ux05-0.webp",
+      "localPath": "assets/pose-refinement-v01453/generated/ux05-0.webp",
+      "width": 480,
+      "height": 720,
+      "bytes": 22130,
+      "sha256": "e48840d54712aff1e1a4bcc1ebf3cd5434bd8b7d450613dbd8206e990ead569f",
+      "itemTargets": {
+        "ux05-0": {
+          "x": 61,
+          "y": 33
+        },
+        "ux05-1": {
+          "x": 47,
+          "y": 31.5
+        },
+        "ux05-2": {
+          "x": 51,
+          "y": 61
+        },
+        "ux05-3": {
+          "x": 56,
+          "y": 90
+        }
+      },
+      "review": "Manually inspected full-body photograph and clothing anchors. Shoes target a visible shoe surface, not the empty midpoint between feet."
+    },
+    {
+      "lookId": "ux05",
+      "index": 1,
+      "label": "걷기",
+      "sourcePath": "assets/pose-sequence-v01452/generated/ux05-2.webp",
+      "sourceSha256": "88c4512998caf6e41d582c86287cacb4c4dcbd2aad4e63556727ff5968449510",
+      "asset": "pose_v01453_ux05_1",
+      "url": "https://studiogravon.github.io/connecta-media/v01453/poses/ux05-1.webp",
+      "localPath": "assets/pose-refinement-v01453/generated/ux05-1.webp",
+      "width": 480,
+      "height": 720,
+      "bytes": 23472,
+      "sha256": "88c4512998caf6e41d582c86287cacb4c4dcbd2aad4e63556727ff5968449510",
+      "itemTargets": {
+        "ux05-0": {
+          "x": 63,
+          "y": 32
+        },
+        "ux05-1": {
+          "x": 50,
+          "y": 32
+        },
+        "ux05-2": {
+          "x": 50,
+          "y": 64
+        },
+        "ux05-3": {
+          "x": 47,
+          "y": 91
+        }
+      },
+      "review": "Manually inspected full-body photograph and clothing anchors. Shoes target a visible shoe surface, not the empty midpoint between feet."
+    },
+    {
+      "lookId": "ux05",
+      "index": 2,
+      "label": "옆모습",
+      "sourcePath": "C:/Users/user/.codex/generated_images/01a16231-81fa-7c72-af19-89a1aefc937a/exec-f6122a70-c90e-4e71-95c8-faa02a35a4a2.png",
+      "sourceSha256": "2525b823562371746f0546846dc7d8565d36b11be74814f8276358ae5aac26d9",
+      "asset": "pose_v01453_ux05_2",
+      "url": "https://studiogravon.github.io/connecta-media/v01453/poses/ux05-2.webp",
+      "localPath": "assets/pose-refinement-v01453/generated/ux05-2.webp",
+      "width": 480,
+      "height": 720,
+      "bytes": 20860,
+      "sha256": "89b31fb2169d7052e1da967104da1290413cfcd56ed9a7d8a9d50306b1a873f5",
+      "itemTargets": {
+        "ux05-0": {
+          "x": 54,
+          "y": 31
+        },
+        "ux05-1": {
+          "x": 44,
+          "y": 34
+        },
+        "ux05-2": {
+          "x": 52,
+          "y": 64
+        },
+        "ux05-3": {
+          "x": 48,
+          "y": 91
+        }
+      },
+      "review": "Manually inspected full-body photograph and clothing anchors. Shoes target a visible shoe surface, not the empty midpoint between feet."
+    }
+  ]
+}
